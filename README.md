@@ -1,15 +1,16 @@
 # BikeRoutes2
 App
 
+#### Web
 ```
-// Test Web
 cordova platform add browser
 cordova run browser
 
 ```
 
+#### Android
 ```
-// ndroid
+
 cordova platform add android
 cordova run android
 cordova build android
